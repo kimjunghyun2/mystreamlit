@@ -1,0 +1,31 @@
+0523test 10-3.py >> 법정동 주소와 연월을 입력받고 공공api를통해 
+0527estate.py >> 공공api를 통한 부동산 개벌업 조회
+0615crawling1.py >>웹크롤링
+0615FAQcrawling.py FAQ 크롤링
+0620titlecrawling.py 게시글 제목 크롤링
+0624crawling.py >> Selenium을 이용한 웹크롤링
+0704api.py >> 0523 10-3.py와 동일
+0704rent.py >> 법정동 주소와 연월을 입력받고 공공api를통해 
+0808pracSTb.py >> 0523 10-3.py를 streamlit으로 적용
+
+참고 url
+파이참 설치 : https://leirbag.tistory.com/42
+파이썬 : https://wikidocs.net/book/1
+
+공공api : 
+https://velog.io/@rssungjae/Python%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0API%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90
+https://dorudoru.tistory.com/2259
+
+파이썬 웹크롤링 
+BS4
+https://velog.io/@ouo_yoonk/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0-with-mongoDB
+https://hleecaster.com/python-web-crawling-with-beautifulsoup/
+셀레니움
+https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/
+https://hi-guten-tag.tistory.com/11?category=1256065
+
+파이썬-streamlit 
+https://minimin2.tistory.com/184
+https://docs.streamlit.io/library/api-reference
+
+파이썬 : https://wikidocs.net/book/1
